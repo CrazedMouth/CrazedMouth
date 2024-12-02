@@ -33,10 +33,4 @@
 
 </div>
 
-<div style="color: white; text-align: center; font-family: Arial, sans-serif; font-size: 18px; line-height: 1.6; margin: 20px auto; max-width: 600px;">
-  ⋆˚✿˖ Hello! I occasionally draw whenever I feel like it. I don't usually take requests but please feel free to do so! It's good motivation for me! .✿˚⋆
 
-  <br><br> <!-- Adds space between the two sentences -->
-
-  I do love making new friends, but don't have the guts to make the first move, so if you want to talk to me, just do!
-</div>
