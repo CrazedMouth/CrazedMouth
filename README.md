@@ -38,7 +38,7 @@
   
 <div style="color: white; text-align: center; font-family: Arial, sans-serif; font-size: 4px; line-height: 1.6; margin: 20px auto; max-width: 100px; border-radius: 15px; background: rgba(0, 0, 0, 0.2); padding: 20px;">
   
-  ⋆˚✿˖ Hello! I occasionally draw whenever I feel like it.<br>
+  ⋆˚✿˖ **Hello!** I occasionally draw whenever I feel like it.<br>
   I don't usually take requests but please feel free to do so! It's good motivation for me! ˖✿˚⋆
 
  <div>
