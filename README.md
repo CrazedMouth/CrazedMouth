@@ -60,11 +60,36 @@
   <br> 
   ִ𖤐 Recommend me anything! from Anime, movies, games etc.<br>
   <br>
-  ✦•┈๑⋅⋯ ⋯⋅๑┈·✦
+  ✦•┈๑⋅⋯ ⋯⋅๑┈·✦<br>
 
-  </div>
+  ₊✧₊<br>
+   .<br>
+   .<br>
+   .<br>
 
-<br><br>
+ </div>
+<br>
+ <div>
+   <img src="https://static.myfigurecollection.net/upload/pictures/2024/10/29/4189867.gif" alt="Pastel Flowers" height="140" style="margin: 120px;">
+  </div>  
+  
+<br>
+
+<div style="color: white; text-align: center; font-family: Arial, sans-serif; font-size: 20px; line-height: 1.6; margin: 20px auto; max-width: 100px; border-radius: 15px; background: rgba(0, 0, 0, 0.2); padding: 20px;">
+࣪ ִֶָ☾. <br>
+ .<br>
+ .<br>
+ .<br>
+</div>
+
+<br>
+
+$${\color{#5584ad}'Make~me \space your \space god, \space I \space can \space give \space you \space everything'}$$ <br>
+
+<div style="color: white; text-align: center; font-family: Arial, sans-serif; font-size: 20px; line-height: 1.6; margin: 20px auto; max-width: 100px; border-radius: 15px; background: rgba(0, 0, 0, 0.2); padding: 20px;">
+────୨ৎ────
+</div>
+  <br><br>
 
 <div style="display: flex; justify-content: center; gap: 5px;">
 <img src="https://media.tenor.com/uxOSA3WdnrcAAAAi/rabbit-bunny.gif" alt="Description of image" width="120" height="120">
