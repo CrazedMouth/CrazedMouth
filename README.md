@@ -70,9 +70,12 @@
    .<br>
 
  </div>
-<br>
+
+<div>
+   <img src="https://media.tenor.com/Q0KVz2dA_ikAAAAi/luka-anime.gif" alt="smol luka" height="170" style="margin: 170px;">
+  </div> 
  <div>
-   <img src="https://static.myfigurecollection.net/upload/pictures/2024/10/29/4189867.gif" alt="Pastel Flowers" height="140" style="margin: 120px;">
+   <img src="https://static.myfigurecollection.net/upload/pictures/2024/10/29/4189867.gif" alt="big luka" height="140" style="margin: 120px;">
   </div>  
   
 <br>
