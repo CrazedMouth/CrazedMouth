@@ -1,6 +1,4 @@
-
-
-
+<br><br><br><br>
 <div align="center" style="background: #fff0f5; padding: 20px; border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);">
   
 <img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif">
@@ -98,3 +96,5 @@ $${\color{#5584ad}'Make~me \space your \space god, \space I \space can \space gi
 <img src="https://media.tenor.com/uxOSA3WdnrcAAAAi/rabbit-bunny.gif" alt="Description of image" width="120" height="120">
 <img src="https://media.tenor.com/ln8alPDzursAAAAi/rabbit-bunny.gif" alt="Description of image" width="120" height="120">
 <img src="https://media.tenor.com/eHfyi0dPwIYAAAAi/rabbit-bunny.gif" alt="Description of image" width="120" height="120">
+
+<br><br><br>
